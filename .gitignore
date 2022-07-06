@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data Files
+yellow_tripdata_2017-06.csv
