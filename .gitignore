@@ -130,3 +130,4 @@ dmypy.json
 
 # Data Files
 yellow_tripdata_2017-06.csv
+*.xlsx
